@@ -1,7 +1,7 @@
 name: projects
 favicon: null
-layout_spectrum: 0.666655188659206
-typography_spectrum: 0.7341970985289663
+layout_spectrum: 0
+typography_spectrum: 0.23516
 cta:
   domain: null
   bucket: null
