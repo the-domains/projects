@@ -1,6 +1,6 @@
 name: eddy vajarakitipongse
 favicon: null
-layout_spectrum: 0.94245
+layout_spectrum: 0.56845
 typography_spectrum: 0.92835
 collections:
   - index:
@@ -35,7 +35,7 @@ color:
     - '#bfbebc'
     - '#b14528'
   brandStrength: 0.3125
-  lightness: 0.4375
+  lightness: 0.625
   saturation: 0.75
   rhythmicContrast: 1
 purpose: []
