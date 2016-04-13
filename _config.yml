@@ -1,4 +1,4 @@
-name: eddy vajarakitipongse
+name: Eddy Vajarakitipongse
 favicon: null
 layout_spectrum: 0.4446808
 typography_spectrum: 0.4829787
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0E0E0D'
-    - '#303131'
-    - '#775442'
-    - '#A3765D'
-    - '#FBC5AB'
+    - '#255795'
+    - '#428ed8'
+    - '#0f1314'
+    - '#4a5133'
+    - '#7d6a5c'
   brandStrength: 0.6553192
   lightness: 1
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
