@@ -1,41 +1,41 @@
-name: eddy vajarakitipongse
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.92835
+title: eddy vajarakitipongse
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: eddy vajarakitipongse
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.75
+  brandStrength: 0
+  rhythmicContrast: 1
   brandColors:
     - '#08080a'
     - '#6a6a6c'
     - '#eaece7'
     - '#bfbebc'
     - '#b14528'
-  brandStrength: 0
   lightness: 0.625
-  saturation: 0.75
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: eddy vajarakitipongse
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.92835
+layout_spectrum: 0.4446808
