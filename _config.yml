@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.75
-  brandStrength: 0
-  rhythmicContrast: 1
+  saturation: 0
+  brandStrength: 0.6553192
+  lightness: 1
   brandColors:
-    - '#08080a'
-    - '#6a6a6c'
-    - '#eaece7'
-    - '#bfbebc'
-    - '#b14528'
-  lightness: 0.625
+    - '#0E0E0D'
+    - '#303131'
+    - '#775442'
+    - '#A3765D'
+    - '#FBC5AB'
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -37,5 +37,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.92835
+typography_spectrum: 0.4829787
 layout_spectrum: 0.4446808
