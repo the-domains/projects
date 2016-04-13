@@ -4,14 +4,20 @@
         <description><![CDATA[my projects]]></description>
         <link>https://thegrid.ai/projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 20:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 20:56:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Roman Empire]]></title>
-            <description><![CDATA[<article><h1>The Roman Empire</h1><p>professional work</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f0e53340306c1724c0e2cb47342d68ef6b68924.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Roman Empire</h1><p>professional work</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f0eaeca828cb4983f4784bef4b203dbe748457a.jpg"></article>]]></description>
             <link>https://thegrid.ai/projects/the-roman-empire/index.html</link>
             <guid isPermaLink="false">8a8c5ebd-bfe6-4386-9186-cc2e017e3dc5</guid>
             <pubDate>Wed, 13 Apr 2016 20:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/projects/fdeda7aa-76c2-47e7-a5c5-51c90a112201/index.html</link>
+            <guid isPermaLink="false">fdeda7aa-76c2-47e7-a5c5-51c90a112201</guid>
+            <pubDate>Wed, 13 Apr 2016 20:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
