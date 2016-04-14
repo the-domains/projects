@@ -1,7 +1,7 @@
 name: Eddy Vajarakitipongse kittypingpong@gmail.com
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.35581
+typography_spectrum: 1
 title: Eddy Vajarakitipongse kittypingpong@gmail.com
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#0f1314'
     - '#4a5133'
     - '#7d6a5c'
-  brandStrength: 0.6553192
+  brandStrength: 0
   lightness: 1
-  saturation: 0
+  saturation: 0.5
   rhythmicContrast: 0
 purpose: []
